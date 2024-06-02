@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819601d602c61dd4bbc35f31e2d76706, type: 3}
+  m_Name: 24 Arbok
+  m_EditorClassIdentifier: 
+  name: Arbok
+  description: 
+  frontSprite: {fileID: 21300000, guid: 0b307a94f28d46f46bb56aa377803857, type: 3}
+  backSprite: {fileID: 21300000, guid: 4d17aa7077fdd374a958794d28ef04c5, type: 3}
+  type1: 8
+  type2: 0
+  maxHp: 60
+  attack: 85
+  defense: 69
+  spAttack: 65
+  spDefense: 79
+  speed: 80
+  learnableMoves: []

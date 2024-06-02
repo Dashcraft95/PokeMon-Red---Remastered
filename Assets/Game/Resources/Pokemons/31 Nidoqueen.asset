@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819601d602c61dd4bbc35f31e2d76706, type: 3}
+  m_Name: 31 Nidoqueen
+  m_EditorClassIdentifier: 
+  name: Nidoqueen
+  description: 
+  frontSprite: {fileID: 21300000, guid: a8254214dfd24a74fb35a4d8062c09fb, type: 3}
+  backSprite: {fileID: 21300000, guid: 76e7eb0c92ea5cb43b81633ac7d73276, type: 3}
+  type1: 8
+  type2: 9
+  maxHp: 90
+  attack: 82
+  defense: 87
+  spAttack: 75
+  spDefense: 85
+  speed: 76
+  learnableMoves: []

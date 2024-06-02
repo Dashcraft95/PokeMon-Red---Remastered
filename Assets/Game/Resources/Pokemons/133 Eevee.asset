@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819601d602c61dd4bbc35f31e2d76706, type: 3}
+  m_Name: 133 Eevee
+  m_EditorClassIdentifier: 
+  name: Eevee
+  description: Dave's Fave Pokemon!
+  frontSprite: {fileID: 21300000, guid: 91f2051c4fa5d684fa272bb0d940db46, type: 3}
+  backSprite: {fileID: 21300000, guid: cc5130d29fbf9094a9abfe1b4fe66945, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 55
+  attack: 55
+  defense: 50
+  spAttack: 45
+  spDefense: 65
+  speed: 55
+  learnableMoves: []

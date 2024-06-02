@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819601d602c61dd4bbc35f31e2d76706, type: 3}
+  m_Name: 54 Psyduck
+  m_EditorClassIdentifier: 
+  name: Psyduck
+  description: 
+  frontSprite: {fileID: 21300000, guid: fa1531073f73a37439d32b7224228ba4, type: 3}
+  backSprite: {fileID: 21300000, guid: 409140e57d5bd594ba9995e6ec8ac9ea, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 50
+  attack: 52
+  defense: 48
+  spAttack: 65
+  spDefense: 50
+  speed: 55
+  learnableMoves: []

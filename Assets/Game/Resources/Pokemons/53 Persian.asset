@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819601d602c61dd4bbc35f31e2d76706, type: 3}
+  m_Name: 53 Persian
+  m_EditorClassIdentifier: 
+  name: Persian
+  description: 
+  frontSprite: {fileID: 21300000, guid: 04b88eeb4bcb3914496a5a34480ed103, type: 3}
+  backSprite: {fileID: 21300000, guid: 8bf7aaa61db477a46bbb0d70bb3bb323, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 65
+  attack: 70
+  defense: 60
+  spAttack: 65
+  spDefense: 65
+  speed: 115
+  learnableMoves: []

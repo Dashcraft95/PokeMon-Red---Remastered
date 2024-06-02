@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819601d602c61dd4bbc35f31e2d76706, type: 3}
+  m_Name: 38 Ninetails
+  m_EditorClassIdentifier: 
+  name: 
+  description: 
+  frontSprite: {fileID: 21300000, guid: 465064c111c370443846e245375f48e9, type: 3}
+  backSprite: {fileID: 21300000, guid: 502a65bf67c6f7c4184edd564e7b325b, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 73
+  attack: 76
+  defense: 75
+  spAttack: 81
+  spDefense: 100
+  speed: 100
+  learnableMoves: []
